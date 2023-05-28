@@ -58,7 +58,7 @@ The following technologies and tools were used in the development of this websit
 
 - HTML & HTML5
 - CSS & CSS3
-- Bootstrapz
+- Bootstrap
 - JavaScript
 - React.js
 - Git
